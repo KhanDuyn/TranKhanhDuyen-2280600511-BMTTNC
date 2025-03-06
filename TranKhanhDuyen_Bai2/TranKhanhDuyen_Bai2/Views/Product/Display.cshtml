@@ -1,0 +1,17 @@
+﻿@model TranKhanhDuyen_Bai2.Models.Product
+
+<div>
+    <h4>Name: @Model.Name</h4>
+    <h4>Price: @Model.Price</h4>
+    <h4>Description: @Model.Description</h4>
+    <img src="@(string.IsNullOrEmpty(Model.ImageUrl) ? "/images/_p.jpg" : Model.ImageUrl)" alt="Product Name" style="max-width: 300px; height: 200px;">
+
+    @if (Model.ImageUrls != null)
+    {
+        foreach (var imageUrl in Model.ImageUrls)
+        {
+            <img src="@(string.IsNullOrEmpty(imageUrl) ? "/images/_p.jpg" : imageUrl)" alt="Product Name" style="max-width: 300px; height: 200px;">
+        }
+    }
+</div>
+<a asp-action="Index">Return</a>

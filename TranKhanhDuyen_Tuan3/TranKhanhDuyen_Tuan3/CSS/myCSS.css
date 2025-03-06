@@ -1,0 +1,10 @@
+﻿body
+{
+}
+.header {
+    background-color: antiquewhite;
+    color: black;
+    padding: 50px;
+    text-align: center;
+    grid-column: 1 / span 2;
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\migrations\\20250228032253_khoitaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\migrations\\20250228032253_khoitaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|d:\\lap trinh web\\trankhanhduyen_bai2\\trankhanhduyen_bai3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E5345-7CB3-4C5B-8BF6-63E08AB482DA}|TranKhanhDuyen_Bai3\\TranKhanhDuyen_Bai3.csproj|solutionrelative:trankhanhduyen_bai3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Views\\Product\\Index.cshtml*",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Views\\Product\\Index.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T03:53:05.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:50:11.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:41:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:37:09.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:34:49.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:34:04.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Program.cs",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Program.cs",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:13:46.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:25:50.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250228032253_KhoiTaoModel.cs",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Migrations\\20250228032253_KhoiTaoModel.cs",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Migrations\\20250228032253_KhoiTaoModel.cs",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Migrations\\20250228032253_KhoiTaoModel.cs",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Migrations\\20250228032253_KhoiTaoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:22:54.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\appsettings.json",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\appsettings.json",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\appsettings.json",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T03:15:58.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TranKhanhDuyen_Bai3\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Lap trinh web\\TranKhanhDuyen_Bai2\\TranKhanhDuyen_Bai3\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TranKhanhDuyen_Bai3\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:10:02.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

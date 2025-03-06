@@ -1,0 +1,2 @@
+D:\Lap trinh web\TranKhanhDuyen_Tuan3\TranKhanhDuyen_Tuan3\obj\Debug\TranKhanhDuyen_Tuan3.csproj.AssemblyReference.cache
+D:\Lap trinh web\TranKhanhDuyen_Tuan3\TranKhanhDuyen_Tuan3\obj\Debug\TranKhanhDuyen_Tuan3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TranKhanhDuyen_Bai2/1.0.0": {
+        "runtime": {
+          "TranKhanhDuyen_Bai2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TranKhanhDuyen_Bai2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

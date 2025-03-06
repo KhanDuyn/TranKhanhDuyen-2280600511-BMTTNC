@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TranKhanhDuyen_Bai2.props" />
+</Project>
